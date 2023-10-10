@@ -130,7 +130,7 @@ button {
   display: flex;
   
   flex-direction: column;
-  max-width: 400px;
+  max-width: 500px;
 }
 
 .home h1 {
@@ -312,9 +312,8 @@ button {
 }
 
 .membro {
-  width: 7vw;
+  width: 5.59vw;
   height: 10vh;
-
   border-radius: 100%;
 }
 

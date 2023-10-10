@@ -32,7 +32,7 @@ export const Equipe = (props) => {
     {
       nome: "Gustavo Araújo",
       foto: gustavo,
-      cargo: "Engenheiro de Software",
+      cargo: "Desenvolvedor Back-End",
       redes: {
         instagram: "https://www.instagram.com/tres_pontinhoz/",
         linkedin: "",
@@ -64,6 +64,17 @@ export const Equipe = (props) => {
       nome: "Iago Loureiro",
       foto: iago,
       cargo: "Gerente de banco de dados",
+      redes: {
+        instagram: "https://www.instagram.com/iag0_mat/",
+        linkedin: "",
+        gitHub: "",
+      },
+    },
+
+    {
+      nome: "Pietro Turci",
+      foto: "",
+      cargo: "Desenvolvedor Front-End",
       redes: {
         instagram: "https://www.instagram.com/iag0_mat/",
         linkedin: "",
